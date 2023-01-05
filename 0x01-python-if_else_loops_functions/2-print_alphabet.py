@@ -1,4 +1,3 @@
 #!/usr/bin/python3
-import string
-for j in string.ascii_lowercase:
+for j in range(97,123):
     print("{}".format(chr(j)), end=' ')
