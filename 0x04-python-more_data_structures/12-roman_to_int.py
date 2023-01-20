@@ -32,27 +32,3 @@ def roman_to_int(roman_string):
             result += (nextValue - currentValue)
             next(enum)
     return result
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-"12-roman_to_int.py" [New File]                                    0,0-1         All
-
