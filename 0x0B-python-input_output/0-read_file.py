@@ -11,4 +11,3 @@ def read_file(prmFileName=""):
     with open(prmFileName, encoding="UTF-8") as file:
         read_data = file.read()
         print(read_data, end="")
-    file.closed
